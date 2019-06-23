@@ -1,0 +1,21 @@
+# DEFAULT EXCLUDES
+deploy_scripts/
+.arch-params
+.bzr
+_darcs
+.git
+.hg
+.monotone
+.svn
+CVS
+.DS_Store
+nbproject
+*.esproj
+*.sublime
+
+# ADD YOUR OWN BELOW HERE
+
+/.github
+/node_modules/
+/.gitignore
+/.htaccess.sample

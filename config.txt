@@ -1,0 +1,2 @@
+USER=username@hostnameoripaddress.com
+REMOTE=/srv/www/website_folder/html/
